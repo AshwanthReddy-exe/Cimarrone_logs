@@ -2,3 +2,6 @@
 - 24-06-2026 (sick) - Health problem - sick 
 - 02-07-2026 - OT PPT  - labs subs
 - 07-07-2026 - OT drive -  gym neck pain
+- 13-07-2026 - CN Lab external
+- 14-07-2026 - MiniProject Final Review
+- 15-07-2026 - DL Lab external

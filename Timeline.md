@@ -6,3 +6,4 @@
 - Started doing basic project- hostel maintanance system - ( 23-06-2026 ) 
 - done with deployment of the basic project!(26-06-2026)
 - Done with the simple review of the complete fleet fargate workflows! (06-07-2026)
+- Salary account created successfully.(14-07-2026)
