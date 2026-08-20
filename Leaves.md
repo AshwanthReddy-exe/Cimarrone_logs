@@ -5,3 +5,5 @@
 - 13-07-2026 - CN Lab external
 - 14-07-2026 - MiniProject Final Review
 - 15-07-2026 - DL Lab external
+- 20-07-2026 - 05-08-2026 - SEMESTER EXAMS.
+- 17-08-2025 - 18-08-2026 - SEMESTER EXAM( CN postponed one!)
